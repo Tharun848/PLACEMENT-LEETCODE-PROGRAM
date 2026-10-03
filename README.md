@@ -112,7 +112,8 @@ java Binary_Search_704
 
 ## 👤 Author
 
-- **GitHub**: [@anguabishek17](https://github.com/anguabishek17)
+- **GitHub**: @tharun848
+- THARUN M
 
 ---
 
